@@ -1,0 +1,11 @@
+{
+  "contact": "Mooalot on discord",
+  "templates": [
+  ],
+  "whitelist": [{
+      "name": "OnePiece template",
+      "url": "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/oneplace-template.json"
+    }
+  ],
+  "blacklist": []
+}
