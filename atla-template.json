@@ -1,6 +1,14 @@
 {
   "contact": "Mooalot on discord",
   "templates": [
+    {
+      "name": "Four Nations art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/atla-place/main/four_nations_square_v02.png"
+      ],
+      "x": 555,
+      "y": 179
+    }
   ],
   "whitelist": [{
       "name": "OnePiece template",
