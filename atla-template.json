@@ -2,9 +2,9 @@
   "contact": "Mooalot on discord",
   "templates": [
     {
-      "name": "Air Nation art",
+      "name": "Four Nations & Aang art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/atla-place/main/templates/four_nations_v01.png"
+        "https://raw.githubusercontent.com/Lopeh/atla-place/main/templates/four_nations_aang_v01.png"
       ],
       "x": 1139,
       "y": 240
